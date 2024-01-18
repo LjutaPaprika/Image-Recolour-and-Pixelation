@@ -50,6 +50,7 @@ section_size = 400
 threshold = 0.2
 
 num_colours = 2
+
 ---
 
 pixel-3.jpg - Pixelation (Small scale recolouring)
@@ -69,6 +70,7 @@ section_size = 15
 threshold = 0.2
 
 num_colours = 1
+
 ---
 
 pixel-4.jpg - No Pixelation Recolour
